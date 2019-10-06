@@ -1,2 +1,2 @@
-# java_egitimi_1
-Java ve kendi notlarımı içerek eğitim serisi
+# Java Eğitimi
+Java ve kendi notlarımı içerek eğitim serisi.
